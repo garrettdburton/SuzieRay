@@ -700,6 +700,11 @@ flow section
     background-color: lightcyan;
 }
 
+#myTabContent{
+    background-color: lightcyan;
+    height: 100%;
+}
+
 /* --------------------
 Testimonial Section
 ------------------------*/
