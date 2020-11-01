@@ -701,11 +701,9 @@ flow section
 }
 
 #myTab {
-    background-color: lightcyan;
 }
 
 #myTabContent{
-    background-color: lightcyan;
     height: 100%;
 }
 
