@@ -1375,8 +1375,6 @@ Responsive
         overflow: hidden;
     }
     .site-tab-nav.nav.nav-tabs .nav-item {
-        float: left;
-        width: 50%;
     }
     .feature-tab-section .feature-icon {
         display: none;
