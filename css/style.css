@@ -696,6 +696,10 @@ flow section
     bottom: 27px;
 }
 
+#myTab {
+    background-color: lightcyan;
+}
+
 /* --------------------
 Testimonial Section
 ------------------------*/
