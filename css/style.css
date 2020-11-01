@@ -1477,15 +1477,14 @@ Responsive
         letter-spacing: 5px;
     }
     .site-tab-nav.nav.nav-tabs {
-        margin-bottom: 40px;
+        margin-bottom: 30px;
         overflow: hidden;
     }
     .site-tab-nav.nav.nav-tabs .nav-link {
         padding: 41px 25px;
     }
     .site-tab-nav.nav.nav-tabs .nav-item {
-        float: left;
-        width: 50%;
+      
     }
     .feature-tab-section .feature-icon {
         display: none;
