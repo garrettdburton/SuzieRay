@@ -567,6 +567,11 @@ Hero section
     background-color: #f88379;
 }
 
+ .jumbotron {
+    overflow: hidden;
+    background-color: #f88379;
+}
+
 .hero-content h2 {
     font-size: 72px;
     font-weight: 400;
