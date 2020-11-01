@@ -1527,4 +1527,8 @@ Responsive
         float: none;
         width: 100%;
     }
+    
+    #youtube_vid{
+     width: 200px;
+    }
 }
