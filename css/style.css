@@ -554,12 +554,11 @@ Header section
 .main-menu li.active a:after {
     position: absolute;
     content: "";
-    width: 11px;
-    height: 11px;
-    left: calc(50% - 8px);
-    bottom: -13px;
-    background: #2f62a2;
-    border-radius: 50%;
+    width: 50px;
+    height: 2px;
+    left: calc(50% - 25px);
+    bottom: -2px;
+    background: cyan;
 }
 
 /* ----------------
@@ -571,7 +570,7 @@ Hero section
     background-color: #f88379;
 }
 
- .jumbotron {
+.jumbotron {
     overflow: hidden;
     background-color: #f88379;
 }
@@ -601,7 +600,7 @@ Courses Section
 ---------------------*/
 
 .courses-section {
-    
+
 }
 
 .course-item {
@@ -1427,13 +1426,18 @@ Responsive
     }
     .slicknav_nav {
         border-radius: 9px;
-        background: #1b1c2e;
+        background: lightcyan;
         padding: 13px 0;
         margin-top: 11px;
     }
+
+    .slicknav_nav li a {
+        border-radius: 6px;
+        color: #2F62A2;
+    }
     .slicknav_nav li.active a {
         border-radius: 6px;
-        color: #f7ffa0;
+        color: #f88379;
     }
     .slicknav_btn {
         background-color: #393a52;
