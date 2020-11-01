@@ -21,7 +21,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    color: #493365;
+    color: #2f62a2;
     font-weight: 600;
 }
 
@@ -173,7 +173,7 @@ Commom elements
     border-radius: 9px;
     text-transform: uppercase;
     background: #f7ffa0;
-    color: #493365;
+    color: #2f62a2;
     line-height: normal;
     letter-spacing: 1px;
     cursor: pointer;
@@ -181,7 +181,7 @@ Commom elements
 }
 
 .site-btn:hover {
-    color: #493365;
+    color: #2f62a2;
 }
 
 .site-btn.sb-shadow {
@@ -214,7 +214,7 @@ Commom elements
     width: 15px;
     height: 100%;
     text-align: center;
-    color: #493365;
+    color: #2f62a2;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -237,7 +237,7 @@ Commom elements
 
 .accordion-area .panel-header .panel-link.collapsed:after {
     content: "+";
-    color: #493365;
+    color: #2f62a2;
 }
 
 .accordion-area .panel-link.active:after {
@@ -259,7 +259,7 @@ Commom elements
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #493365;
+    color: #2f62a2;
     line-height: 1;
     cursor: pointer;
     border: none;
@@ -381,7 +381,7 @@ Commom elements
     width: 77px;
     height: 77px;
     font-size: 43px;
-    color: #493365;
+    color: #2f62a2;
     float: left;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -554,7 +554,7 @@ Header section
     height: 11px;
     left: calc(50% - 8px);
     bottom: -13px;
-    background:  #2f62a2;
+    background: #2f62a2;
     border-radius: 50%;
 }
 
@@ -689,7 +689,7 @@ flow section
     position: absolute;
     right: 0;
     bottom: 27px;
-}ß
+}
 
 /* --------------------
 Testimonial Section
@@ -1075,7 +1075,7 @@ Blog page
 .site-pagination a {
     font-size: 14px;
     font-weight: 700;
-    color: #493365;
+    color: #2f62a2;
     margin-left: 10px;
     position: relative;
 }
@@ -1165,7 +1165,7 @@ Blog page
     font-size: 10px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #493365;
+    color: #2f62a2;
     letter-spacing: 1px;
 }
 
@@ -1237,7 +1237,7 @@ Responsive
 
 @media (min-width: 1200px) {
     .container {
-        max-width: 1176px;
+        max-width: 1776px;
     }
 }
 
