@@ -593,6 +593,9 @@ Hero section
     color: #fff;
 }
 
+.border-white{
+    border-width: 1px;
+}
 /* ----------------
 Courses Section
 ---------------------*/
